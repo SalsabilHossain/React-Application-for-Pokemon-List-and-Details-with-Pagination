@@ -1,0 +1,16 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    font-size: 2em;
+  }
+  
+  li {
+    margin: 0.5em;
+    cursor: pointer;
+    color: black;
+  }
+  
+  li:hover {
+    color: purple;
+  }
